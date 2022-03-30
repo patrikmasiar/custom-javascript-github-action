@@ -14,7 +14,7 @@ on:
 
 jobs:
   custom_jobs:
-    name: E2E
+    name: CUSTOM NAME
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
