@@ -1,0 +1,6 @@
+
+name: 'Say Hello'
+description: 'Say Hello to the world'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
