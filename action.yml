@@ -1,5 +1,5 @@
 
-name: 'Say Hello'
+name: 'Patrik says Hello'
 description: 'Say Hello to the world'
 runs:
   using: 'node16'
